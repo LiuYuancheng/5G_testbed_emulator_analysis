@@ -21,7 +21,7 @@ Normal test bed features:
 - Lower latency, down to single-digit milliseconds, which is critically important in applications such as [connected vehicles in ITS applications](https://www.digi.com/blog/post/5g-iot-and-the-future-of-connected-vehicle) and autonomous vehicles, where near instantaneous response is necessary. 
 - Support low, mid and high-band spectrum – from licensed, shared and private sources: 5G high-band (mmWave), 5G mid-band operates in the 2-6 GHz range, 5G low-band operates below 2 GHz.
 
-![](5g1.png)
+![](doc/img/5g1.png)
 
 
 
@@ -45,7 +45,7 @@ the components of the 5G core network architecture include:
 - Unified Data Management (UDM) [**NCL**: we may provide]
 - Application Function (AF) [**NCL**:  let customer/researcher add]
 
-![](5g2.png)
+![](doc/img/5g2.png)
 
 
 
@@ -64,7 +64,7 @@ Network Slicing [We may be able to provide 5G network slicing simulation] :
 
 A 5G network operator may offer one slice that is optimized for high bandwidth applications, another slice that's more optimized for low latency, and a third that's optimized for a massive number of IoT devices. Depending on this optimization, some of the 5G core functions may not be available at all. For example, if you are only servicing IoT devices, you would not need the voice function that is necessary for mobile phones. And because not every slice must have exactly the same capabilities, the available computing power is used more efficiently.
 
-![](5g3.png)
+![](doc/img/5g3.png)
 
 5G test bed example:
 
